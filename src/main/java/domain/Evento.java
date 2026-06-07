@@ -17,4 +17,11 @@ public class Evento {
         }
         this.inscricoesAtuais++;
     }
+    public String getNome() {
+        return nome;
+    }
+
+    public int getLimiteVagas() {
+        return limiteVagas;
+    }
 }
