@@ -1,0 +1,10 @@
+{
+  "curso": "Ciência da Computação",
+  "disciplina": "Projeto de Programação",
+  "tema_escolhido": "6",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes":[
+    {"nome": "Luis Henrique Veras de Araujo", "github_username": "luisveras-dev"}
+  ]
+}
